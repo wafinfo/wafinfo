@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wafinfo&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
-### About Me 👋
+## Hi, I'm Wafinfo 👋
 
-<img align='right' src="https://profile-counter.glitch.me/wafinfo/count.svg" width="100">
+<meta name="referrer" content="no-referrer" />
 
-- Name : Wafinfo
-- 网络安全爱好者
-
+* 我的博客: [https://yzddmr6.com](https://wafinfo.github.io/)
+* 一个交流知识的小圈子: [我的知识星球](https://t.zsxq.com/1VmPu)
+* 欢迎关注我的公众号：安全绘景
