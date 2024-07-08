@@ -7,3 +7,9 @@
 * 欢迎关注我的公众号：安全绘景
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wafinfo&count_private=true&show_icons=true&hide=prs&theme=radical" />
+## Github stats
+![Wafinfo](https://github-readme-stats.vercel.app/api?username=wafinfo&count_private=true&show_icons=true&hide=prs&theme=radical)
+
+
+### Visitors
+![Wafinfo](https://profile-counter.glitch.me/wafinfo/count.svg)
