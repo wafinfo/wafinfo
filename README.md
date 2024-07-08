@@ -4,6 +4,6 @@
 
 <img align='right' src="https://profile-counter.glitch.me/wafinfo/count.svg" width="100">
 
-- Name : Waf
+- Name : Wafinfo
 - 网络安全爱好者
 
