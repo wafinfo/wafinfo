@@ -10,5 +10,3 @@
 ![Wafinfo](https://github-readme-stats.vercel.app/api?username=wafinfo&count_private=true&show_icons=true&hide=prs&theme=radical)
 
 
-### Visitors
-![Wafinfo](https://profile-counter.glitch.me/wafinfo/count.svg)
